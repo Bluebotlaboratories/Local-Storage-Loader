@@ -6,7 +6,7 @@ function loadData(data) {
 }
 
 // To load:
-// var data = JSON.parse(copiedData);
+// var data = JSON.parse(jsonData);
 // loadData(data);
 
 // To save:
